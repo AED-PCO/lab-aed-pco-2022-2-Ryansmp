@@ -1,6 +1,7 @@
 # Relatorio º2Lista
 
  Atividade º1 Definição recursiva da série de Fibonacci
+![Fibonacci](https://user-images.githubusercontent.com/101760224/186729009-3ae29454-b5cd-411c-9b04-b3693af1af43.jpeg)
 
 Atividade º2 Escreva um método recursivo que retorne o fatorial de um númeoro 
 
