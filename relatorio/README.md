@@ -13,7 +13,11 @@ Atividade º2 Escreva um método recursivo que retorne o fatorial de um númeoro
 ![Soma](https://user-images.githubusercontent.com/101760224/186685940-a48e4c6d-3ee3-4495-95a5-7e2ad35aa175.jpeg)
 
 
- Atividade º4 Escreva um método recursivo que receba uma frase e uma letra como parâmetro.Esta método deve retornar a quantidade de ocorrência desta letra nesta frase. 
+ Atividade º4 Escreva um método recursivo que receba uma frase e uma letra como parâmetro.Esta método deve retornar a quantidade de ocorrência desta letra nesta frase.
+
+  OBS: não consegui fazer recursivamente, e a letra usada para teste foi A e esta com um pequeno erro que mostra sempre uma letra a menos.
+ ![LetrasNaFrase](https://user-images.githubusercontent.com/101760224/186919527-62b98d0d-ee99-404f-b7bc-0a30d684970f.jpeg)
+
 
  Atividade º5 Escreva um metódo recursivo que realize a potenciação entre dois números inteiros,A e B, recebidos por parâmetro.Seu método deve, portanto, retornar o resultado de A°b 
 ![Potenciação](https://user-images.githubusercontent.com/101760224/186687862-00fcf3fd-752f-41c7-9720-6db0f33e51e7.jpeg)
