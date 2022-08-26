@@ -1,3 +1,36 @@
+# Relatorio º1Lista
+
+Atividade 1º
+
+Atividade 1º
+
+Atividade 3º Faça um programa que receba os elementos de dois vetores, A e B, cada um com 5
+posições. Considere que nenhum dos vetores possui elementos repetidos.
+
+Crie um vetor resultante C que possua os elementos comuns entre A e B.
+Crie um vetor resultante D que contenha os elementos de A que não existam em B.
+Essa atividade não tem uma print dos resultados por conta dos múltiplos erros.
+
+Atividade 4º Faça um programa que receba os elementos de uma matriz de 5 linhas por 3 colunas.
+Mostre a soma dos elementos de cada uma das linhas e das colunas da matriz.
+
+OBS: Esta somando apenas as linhas, pq fui tentar somar as colunas e começou a dar muito problema.
+![SomaMatriz](https://user-images.githubusercontent.com/101760224/186930148-658d358f-eb64-4cd9-8787-887fd3f5e931.jpeg)
+
+Atividade 5º Faça um programa que chame uma função capaz de calcular o Fatorial de um número
+inteiro.
+
+![FatorialLista1](https://user-images.githubusercontent.com/101760224/186931467-b4cff1e8-410a-471a-abe8-375395c59295.jpeg)
+
+
+Atividade 6º Faça um programa que chame uma função capaz de calcular xy, sendo X e Y inteiro.
+Utilize passagem de parâmetro por referência.
+
+![Elevação](https://user-images.githubusercontent.com/101760224/186932129-2f844995-85d9-4ccd-aba7-db2bfe07fe1d.jpeg)
+
+
+
+
 # Relatorio º2Lista
 
  Atividade º1 Definição recursiva da série de Fibonacci
