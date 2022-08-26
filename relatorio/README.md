@@ -25,4 +25,8 @@ Atividade º2 Escreva um método recursivo que retorne o fatorial de um númeoro
 
  Atividade º6 Escreva um método recursivo que calcule a soma dos elementos de valor par de um vetor de números inteiros positivos. 
 
+ OBs: Não consegui fazer recursivamente porém o modo "tradicional" esta 100%.
+ ![SomaVetorPar](https://user-images.githubusercontent.com/101760224/186920959-44ced8b7-fe5e-4c67-85a1-5bc3ad69fafa.jpeg)
+
+
  Atividade º7 Escreva um método recursivo que receba uma frase e retorne a mesma frase, sem nenhuma vogal. 
