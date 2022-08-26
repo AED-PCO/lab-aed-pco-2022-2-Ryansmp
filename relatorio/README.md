@@ -1,6 +1,8 @@
 # Relatorio º2Lista
 
  Atividade º1 Definição recursiva da série de Fibonacci
+ 
+ OBS: Esta com um pequeno "erro" ele mostra  casas a frente o número por exemplo o 10º da sequência seria 55, mas como ele descarta 1 ele fica uma casa a frente
 ![Fibonacci](https://user-images.githubusercontent.com/101760224/186729009-3ae29454-b5cd-411c-9b04-b3693af1af43.jpeg)
 
 Atividade º2 Escreva um método recursivo que retorne o fatorial de um númeoro 
