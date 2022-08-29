@@ -16,6 +16,9 @@ Faça um programa que mostre se um determinado número inteiro, lido pelo teclad
 Um Número é dito Perfeito se a soma de seus divisores menores que ele é igual a ele. Por exemplo, o número 6 possui os  divisores 1, 2 e 3, cuja soma é igual a 6.
 Faça um programa que liste os números perfeitos de 1 a 1000.
 
+![Perfeito](https://user-images.githubusercontent.com/101760224/187250656-533c5769-acfc-42bd-9428-56f229f32f24.png)
+
+
 
 Atividade 3º Faça um programa que receba os elementos de dois vetores, A e B, cada um com 5
 posições. Considere que nenhum dos vetores possui elementos repetidos.
