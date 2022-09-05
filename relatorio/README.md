@@ -31,16 +31,18 @@ Atividade 4º Faça um programa que receba os elementos de uma matriz de 5 linha
 Mostre a soma dos elementos de cada uma das linhas e das colunas da matriz.
 
 OBS: Esta somando apenas as linhas, pq fui tentar somar as colunas e começou a dar muito problema.
+Solicitei ao usuário que informa-se os valores para preencher a matriz após ser totalmente preenchida eu somo o resultado das linhas
 ![SomaMatriz](https://user-images.githubusercontent.com/101760224/186930148-658d358f-eb64-4cd9-8787-887fd3f5e931.jpeg)
 
 Atividade 5º Faça um programa que chame uma função capaz de calcular o Fatorial de um número
 inteiro.
-
+Após o usuário informar o número o qual dele deseja fazer o fatorial, e passado como parâmetro para uma função recursiva a qual ela realiza o fatorial do número.
 ![FatorialLista1](https://user-images.githubusercontent.com/101760224/186931467-b4cff1e8-410a-471a-abe8-375395c59295.jpeg)
 
 
 Atividade 6º Faça um programa que chame uma função capaz de calcular xy, sendo X e Y inteiro.
 Utilize passagem de parâmetro por referência.
+Solicitei ao usuário para fornecer os 2 parâmetro e utilizando o método math.pow em uma função tive o resultado solicitado.
 
 ![Elevação](https://user-images.githubusercontent.com/101760224/186932129-2f844995-85d9-4ccd-aba7-db2bfe07fe1d.jpeg)
 
@@ -55,22 +57,26 @@ Utilize passagem de parâmetro por referência.
 ![Fibonacci](https://user-images.githubusercontent.com/101760224/186729009-3ae29454-b5cd-411c-9b04-b3693af1af43.jpeg)
 
 Atividade º2 Escreva um método recursivo que retorne o fatorial de um númeoro 
+Após o usuário informar o número o qual dele deseja fazer o fatorial, e passado como parâmetro para uma função recursiva a qual ela realiza o fatorial do número.
 
  Entrada dos valores e resultado abaixo. 
 ![Fatorial resultado](https://user-images.githubusercontent.com/101760224/186685108-eb82cd0d-e61e-4683-ad41-806d38729aff.jpeg)
 ![Fatorial](https://user-images.githubusercontent.com/101760224/186685400-fe64d6f2-e724-4e99-a8e5-6c1a9ae79ff3.jpeg)
 
  Atividade º3 Uma multiplicação pode ser vista como uma sequência soma.Escreva um método recrusivo que realize a multiplicação de dois números inteiros, A e B, recebidos por parâmetro. 
+ Após o usuário informar o número o qual dele deseja fazer a multiplicação/soma e passado para a função a qual ela retorna a multiplicação.
 ![Soma](https://user-images.githubusercontent.com/101760224/186685940-a48e4c6d-3ee3-4495-95a5-7e2ad35aa175.jpeg)
 
 
  Atividade º4 Escreva um método recursivo que receba uma frase e uma letra como parâmetro.Esta método deve retornar a quantidade de ocorrência desta letra nesta frase.
 
+  
   OBS: não consegui fazer recursivamente, e a letra usada para teste foi A e esta com um pequeno erro que mostra sempre uma letra a menos.
  ![LetrasNaFrase](https://user-images.githubusercontent.com/101760224/186919527-62b98d0d-ee99-404f-b7bc-0a30d684970f.jpeg)
 
 
  Atividade º5 Escreva um metódo recursivo que realize a potenciação entre dois números inteiros,A e B, recebidos por parâmetro.Seu método deve, portanto, retornar o resultado de A°b 
+ E passado para a função os valores de A,B fornecidos pelo usuário e após a função terminar a potenciação de A por B ela retorna o resultado para o main.
 ![Potenciação](https://user-images.githubusercontent.com/101760224/186687862-00fcf3fd-752f-41c7-9720-6db0f33e51e7.jpeg)
 
 
