@@ -82,6 +82,8 @@ Após o usuário informar o número o qual dele deseja fazer o fatorial, e passa
 
  Atividade º6 Escreva um método recursivo que calcule a soma dos elementos de valor par de um vetor de números inteiros positivos. 
 
+Criei uma função para gerar e preencher a matriz com números aletórios, após ser preenchida faço as comparações necessária para separar os números pares e somo eles.
+
  OBs: Não consegui fazer recursivamente porém o modo "tradicional" esta 100%.
  ![SomaVetorPar](https://user-images.githubusercontent.com/101760224/186920959-44ced8b7-fe5e-4c67-85a1-5bc3ad69fafa.jpeg)
 
