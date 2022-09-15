@@ -74,8 +74,9 @@ Após o usuário informar o número o qual dele deseja fazer o fatorial, e passa
  Atividade º4 Escreva um método recursivo que receba uma frase e uma letra como parâmetro.Esta método deve retornar a quantidade de ocorrência desta letra nesta frase.
 
   
-  OBS: não consegui fazer recursivamente, e a letra usada para teste foi A e esta com um pequeno erro que mostra sempre uma letra a menos.
- ![LetrasNaFrase](https://user-images.githubusercontent.com/101760224/186919527-62b98d0d-ee99-404f-b7bc-0a30d684970f.jpeg)
+  OBS: não consegui fazer peguei com outro aluno o codígo correto , mas vou mandar o meu errado junto 
+ ![image](https://user-images.githubusercontent.com/101760224/190408575-5d509d84-ac29-49b6-aec3-1c2d9ad09fd5.png)
+
 
 
  Atividade º5 Escreva um metódo recursivo que realize a potenciação entre dois números inteiros,A e B, recebidos por parâmetro.Seu método deve, portanto, retornar o resultado de A°b 
