@@ -74,7 +74,7 @@ Após o usuário informar o número o qual dele deseja fazer o fatorial, e passa
  Atividade º4 Escreva um método recursivo que receba uma frase e uma letra como parâmetro.Esta método deve retornar a quantidade de ocorrência desta letra nesta frase.
 
   
-  OBS: não consegui fazer peguei com outro aluno o codígo correto , mas vou mandar o meu errado junto 
+  OBS: não consegui fazer peguei com outro aluno o codígo correto.
  ![image](https://user-images.githubusercontent.com/101760224/190408575-5d509d84-ac29-49b6-aec3-1c2d9ad09fd5.png)
 
 
