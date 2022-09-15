@@ -10,6 +10,9 @@ O Quadrado de 55 é igual a 3025.
  
 Faça um programa que mostre os números de 1000 a 9999 que possuem essa característica
 
+![image](https://user-images.githubusercontent.com/101760224/190407228-7280e236-c1b1-414a-a607-7794a83802cf.png)
+
+
 
 Atividade 2º Um Número é dito Primo se possui como divisores o número 1 e ele mesmo. Em outras palavras, um Número Primo possui dois divisores de 1 até ele.
 Faça um programa que mostre se um determinado número inteiro, lido pelo teclado, é Primo.
