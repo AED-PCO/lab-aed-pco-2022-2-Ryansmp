@@ -97,4 +97,8 @@ Criei uma função para gerar e preencher a matriz com números aletórios, apó
  OBS:Não consegui fazer também foi pego com outro aluno.
 ![image](https://user-images.githubusercontent.com/101760224/190409578-0ae80921-8d89-494a-8cdf-3df1188abe37.png)
 
-
+# Relatorio º3Lista
+Atividade 1º Ordenação binária com pos
+Atividade 2º Ordenação binária sem pos 
+Atividade 3º Pesquisa binária com pos
+Atividade 4º Pesquisa binária sem pos
