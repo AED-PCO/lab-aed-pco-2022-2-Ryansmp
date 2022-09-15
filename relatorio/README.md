@@ -93,3 +93,8 @@ Criei uma função para gerar e preencher a matriz com números aletórios, apó
 
 
  Atividade º7 Escreva um método recursivo que receba uma frase e retorne a mesma frase, sem nenhuma vogal. 
+ 
+ OBS:Não consegui fazer também foi pego com outro aluno.
+![image](https://user-images.githubusercontent.com/101760224/190409578-0ae80921-8d89-494a-8cdf-3df1188abe37.png)
+
+
