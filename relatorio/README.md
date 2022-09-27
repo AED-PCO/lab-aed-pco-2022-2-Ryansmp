@@ -121,7 +121,10 @@ Atividade 1 Bubble Sort
 OBS:Código pego na internet...
 ![image](https://user-images.githubusercontent.com/101760224/192540647-3b0c70f6-8f83-45db-b637-bbe7df332163.png)
 
-
 Atividade 2 Insertion sort
+OBS:Parte do código pego na internet...
+> ![image](https://user-images.githubusercontent.com/101760224/192541746-f3b98a90-48ad-4ce1-a995-382a2accc5e3.png)
+![image](https://user-images.githubusercontent.com/101760224/192542228-bdc0f2c3-051a-4afb-9790-bdccf36f3eda.png)
+
 
 Atividade 3 Selection sort
