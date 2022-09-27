@@ -116,7 +116,11 @@ Atividade complexidade 3
 Atividade complexidade 4
 
 # Relatorio 6 Lista
+
 Atividade 1 Bubble Sort
+OBS:Código pego na internet...
+![image](https://user-images.githubusercontent.com/101760224/192540647-3b0c70f6-8f83-45db-b637-bbe7df332163.png)
+
 
 Atividade 2 Insertion sort
 
