@@ -99,6 +99,25 @@ Criei uma função para gerar e preencher a matriz com números aletórios, apó
 
 # Relatorio 3 Lista
 Atividade 1 Ordenação binária com pos
+
 Atividade 2 Ordenação binária sem pos 
+
 Atividade 3 Pesquisa binária com pos
+
 Atividade 4 Pesquisa binária sem pos
+
+# Relatorio 5 Lista
+Atividade complexidade 1
+
+Atividade complexidade 2
+
+Atividade complexidade 3
+
+Atividade complexidade 4
+
+# Relatorio 6 Lista
+Atividade 1 Bubble Sort
+
+Atividade 2 Insertion sort
+
+Atividade 3 Selection sort
