@@ -104,6 +104,9 @@ Atividade 2 Ordenação binária sem pos
 
 Atividade 3 Pesquisa binária com pos
 
+![image](https://user-images.githubusercontent.com/101760224/194433246-7c96e684-6f77-461a-b237-3a621eb191b8.png)
+
+
 Atividade 4 Pesquisa binária sem pos
 
 # Relatorio 5 Lista
