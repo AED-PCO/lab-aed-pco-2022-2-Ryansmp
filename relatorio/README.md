@@ -133,3 +133,20 @@ OBS:Parte do código pego na internet...
 
 
 Atividade 3 Selection sort
+
+# Relatorio 7 Lista
+Atividade 1 Compara dois textos e informa os iguais e diferentes
+
+Atividade 2 
+
+Atividade 3 Inverter a frase por entrada de arquivo
+
+Meu plano inicial era passar a string/char para um vetor original, depois passar para um vetor auxiliar e na hora de exibir percorrer ele ao contrário, ao inves de ser do início ao fim, seria do fim ao inicio, porém não deu certo de nenhuma forma que tentei esta "comentado" no código algumas das tentativas.
+
+OBS:Mas como não consegui utilizei a função (string fraseinvertida = new string(fraseUser.Reverse().ToArray());)
+
+![image](https://user-images.githubusercontent.com/101760224/198040391-b22089ca-6196-4035-bec6-49eb3cafff29.png)
+
+Atividade 4 Banqueiro merge sort
+
+Atividade 5
