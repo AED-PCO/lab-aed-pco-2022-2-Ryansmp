@@ -135,6 +135,9 @@ OBS:Parte do código pego na internet...
 Atividade 3 Selection sort
 
 # Relatorio 7 Lista
+
+# OBS:Todas as atividades que pediam entrada ou saida de arquivo não consegui fazer desta forma.
+
 Atividade 1 Compara dois textos e informa os iguais e diferentes
 
 Atividade 2 
