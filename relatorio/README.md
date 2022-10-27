@@ -152,4 +152,9 @@ OBS:Mas como não consegui utilizei a função (string fraseinvertida = new stri
 
 Atividade 4 Banqueiro merge sort
 
-Atividade 5
+Atividade 5 Analisar o código que estava na prova e indicar o que iria retornar
+
+Realmente retornou 22 que era a resposta certa mas não entendi esse código o que ele faz exatamente.
+
+![image](https://user-images.githubusercontent.com/101760224/198369631-c0d87d7a-5681-4e59-8974-aa3b6a0e3762.png)
+
