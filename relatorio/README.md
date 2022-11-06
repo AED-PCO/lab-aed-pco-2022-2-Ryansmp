@@ -162,7 +162,7 @@ Realmente retornou 22 que era a resposta certa mas não entendi esse código o q
 
 Atividade 1 Pilha
 
-OBS:fiz utilizando class, mas vou tentar fazer sem class, se não conseguir ficar 100% vou mandar a print e código também.
+OBS:fiz utilizando classe.
 ![image](https://user-images.githubusercontent.com/101760224/198644572-640471a1-2d52-49b4-a926-fb03a5cf8ee8.png)
 ![image](https://user-images.githubusercontent.com/101760224/198644766-23bfea9b-8e83-4e46-adb5-6478d13788d1.png)
 ![image](https://user-images.githubusercontent.com/101760224/198644973-d35a79ec-f0df-4191-a72b-0d36b0c627d1.png)
@@ -171,5 +171,18 @@ OBS:fiz utilizando class, mas vou tentar fazer sem class, se não conseguir fica
 Atividade 2 Fila
 
 Atividade 3 Lista
+
+# Relatorio 9 Lista
+
+Atividade 1 Fila para Fila
+
+Atividade 2 Fila para Fila ao contrário .
+
+
+# Relatorio 9 Lista
+
+Atividade 1 Fila para Fila
+
+Atividade 2 Fila para Fila ao contrário 
 
 
