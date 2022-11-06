@@ -177,6 +177,14 @@ Atividade 2 Fila
 
 Atividade 3 Lista
 
+![image](https://user-images.githubusercontent.com/101760224/200174578-b15261e8-c1c8-413d-b4d6-0a60d1b37191.png)
+![image](https://user-images.githubusercontent.com/101760224/200174604-694f848f-3fce-46d5-b28c-3356ad62a33b.png)
+![image](https://user-images.githubusercontent.com/101760224/200174669-06995ee1-0eb7-4ee8-b325-211e961041f7.png)
+![image](https://user-images.githubusercontent.com/101760224/200174691-4f20449d-4a5d-44df-a28a-e2b67b08d709.png)
+
+
+
+
 # Relatorio 9 Lista
 
 Atividade 1 Fila para Fila
