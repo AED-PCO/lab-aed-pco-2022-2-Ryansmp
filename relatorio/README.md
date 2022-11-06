@@ -177,12 +177,3 @@ Atividade 3 Lista
 Atividade 1 Fila para Fila
 
 Atividade 2 Fila para Fila ao contrário .
-
-
-# Relatorio 9 Lista
-
-Atividade 1 Fila para Fila
-
-Atividade 2 Fila para Fila ao contrário 
-
-
