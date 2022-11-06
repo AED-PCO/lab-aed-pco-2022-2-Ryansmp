@@ -170,6 +170,11 @@ OBS:fiz utilizando classe.
 
 Atividade 2 Fila
 
+![image](https://user-images.githubusercontent.com/101760224/200174101-0b1b726c-e11d-4de7-8b6e-2e1c6b235029.png)
+![image](https://user-images.githubusercontent.com/101760224/200174119-c0cbe4d6-097d-48df-b71a-3c1e886ee417.png)
+![image](https://user-images.githubusercontent.com/101760224/200174141-9bd29a0c-559b-41b8-8818-eeea4161a430.png)
+
+
 Atividade 3 Lista
 
 # Relatorio 9 Lista
