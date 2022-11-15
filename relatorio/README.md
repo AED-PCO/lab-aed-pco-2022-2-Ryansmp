@@ -197,3 +197,6 @@ Atividade 2 Fila para Fila ao contrário .
 # Relatorio 11 Lista
 
 Atividade 1 Lista duplamente encadeada estática e dinâmica + lista circular dinâmica
+
+OBS:Não sei se e exatamente isso que foi pedido 
+![image](https://user-images.githubusercontent.com/101760224/201921048-e813ea4b-4471-462f-af19-c2b9912a0c34.png)
