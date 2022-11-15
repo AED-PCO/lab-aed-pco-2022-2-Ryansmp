@@ -158,7 +158,10 @@ Realmente retornou 22 que era a resposta certa mas não entendi esse código o q
 
 ![image](https://user-images.githubusercontent.com/101760224/198369631-c0d87d7a-5681-4e59-8974-aa3b6a0e3762.png)
 
-# Relatorio 8 Lista
+# Relatorio 8/10 Lista
+
+Como não fiz estático já fiz direto com class acaba que o laboratório 8/10 e o mesmo
+
 
 Atividade 1 Pilha
 
@@ -190,3 +193,7 @@ Atividade 3 Lista
 Atividade 1 Fila para Fila
 
 Atividade 2 Fila para Fila ao contrário .
+
+# Relatorio 11 Lista
+
+Atividade 1 Lista duplamente encadeada estática e dinâmica + lista circular dinâmica
