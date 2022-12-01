@@ -200,3 +200,8 @@ Atividade 1 Lista duplamente encadeada estática e dinâmica + lista circular di
 
 OBS:Não sei se e exatamente isso que foi pedido 
 ![image](https://user-images.githubusercontent.com/101760224/201921048-e813ea4b-4471-462f-af19-c2b9912a0c34.png)
+# Relatorio 12 Lista
+
+Ativiadae 1 Árvore ABB
+
+Ativiadae 2 Árvore AVL
