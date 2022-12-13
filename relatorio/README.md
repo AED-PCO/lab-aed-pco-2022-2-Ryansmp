@@ -205,3 +205,7 @@ OBS:Não sei se e exatamente isso que foi pedido
 Ativiadae 1 Árvore ABB
 
 Ativiadae 2 Árvore AVL
+OBS:Não consegui fazer peguei pronto na net pra não deixar em branco...
+
+![image](https://user-images.githubusercontent.com/101760224/207296289-e1a63105-e3b4-4ac9-9cbe-a5c734d9d526.png)
+
