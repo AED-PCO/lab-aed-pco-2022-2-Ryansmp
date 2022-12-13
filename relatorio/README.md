@@ -192,6 +192,10 @@ Atividade 3 Lista
 
 Atividade 1 Fila para Fila
 
+
+![image](https://user-images.githubusercontent.com/101760224/207315885-3310c368-498f-4dc8-9766-413e8896b893.png)
+
+
 Atividade 2 Fila para Fila ao contrário .
 
 
