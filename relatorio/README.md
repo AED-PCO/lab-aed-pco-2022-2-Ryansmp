@@ -152,7 +152,7 @@ OBS:Mas como não consegui utilizei a função (string fraseinvertida = new stri
 
 Atividade 4 Banqueiro merge sort
 
-OBS:o merge sort peguei na internet não consegui fazer 
+OBS:o merge sort peguei na internet não consegui fazer, o gerador de cpf ta ok, tentei unir os 2 pra fazer o teste dos 50k cpf mas não consegui
 ![image](https://user-images.githubusercontent.com/101760224/207617685-01305bd7-cc40-4c4b-a2af-90034d1d9be2.png)
 
 
